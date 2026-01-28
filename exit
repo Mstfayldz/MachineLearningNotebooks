@@ -1,0 +1,71 @@
+[33mcommit daaf5f138f0d4ea2645227466b3519eb2b7e26e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Wed Sep 24 17:30:18 2025 +0300
+
+    Added LogisticRegression file to Clssification
+
+[33mcommit a8354dac86e471656fecb986fe50637ca3cd8506[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 19:01:28 2025 +0300
+
+     added csv files
+
+[33mcommit 466615125a02383a9007c8802401885a59301b17[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 17:14:47 2025 +0300
+
+     added csv files
+
+[33mcommit 46af25d96680d39933c67804051035064e41762d[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 17:13:32 2025 +0300
+
+     added csv files
+
+[33mcommit 58f1916e14c5c740cbd60350c4a7e10e5d8f1e72[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 17:09:03 2025 +0300
+
+     added csv files
+
+[33mcommit cb515b87e7c24a89a0d991acbe54f37485a47f47[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 17:02:41 2025 +0300
+
+     added csv files
+
+[33mcommit 8e948e099e0f465b02780f50293bcfab3e408a37[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 16:57:08 2025 +0300
+
+     added csv files
+
+[33mcommit 00f61a636480e4cae5f39123dc7a3f41e4ced743[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Fri Sep 19 16:52:29 2025 +0300
+
+    Added file:House_price & Student_Performance_index
+
+[33mcommit fcd03d995ef3ffa925b6c9501682e65058b12e94[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Wed Sep 17 22:23:00 2025 +0300
+
+     Added files:LazyPredict & Scaler_Differences
+
+[33mcommit 863c366783beaf088dfe917cd8405ff1f0ef65d2[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Wed Sep 17 18:43:14 2025 +0300
+
+    Added file:6-Ridge_Lasso_Elastic_Net_Regression
+
+[33mcommit 3b99269c58a9ba8d21aa7d80b02b76f8c902fe63[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Mon Sep 15 22:25:54 2025 +0300
+
+    Added Multi&Poly Regression
+
+[33mcommit ba7c1c585a4b6b439633e9f2db5a5ef071b8c296[m
+Author: Mustafa AYYILDIZ <63ayldzmstf.21@gmail.com>
+Date:   Sun Sep 14 21:59:48 2025 +0300
+
+    Started ML with Sample Regression
